@@ -1,2 +1,5 @@
 # hello-world
-Just for guide
+
+Hi shy!
+
+You are a greatman, you can create anything.
